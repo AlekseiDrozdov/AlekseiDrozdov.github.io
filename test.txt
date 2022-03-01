@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 testbranch1
+=======
+testbranch2
+>>>>>>> testbranch2
